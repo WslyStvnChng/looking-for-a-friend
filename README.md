@@ -3,13 +3,9 @@
 <p>An application that allows user to find the most compatible friend based on your survey answers.
 </p>
 
-<h2>Getting Started</h2>
-<tr>
-<p>Install:</p>
-<ul>
-<li>npm init</li>
-<li>npm install</li>
-</ul>
+<p>Heroku: https://calm-depths-36892.herokuapp.com/</p>
+<br>
+<p>Github: https://github.com/WslyStvnChng/looking-for-a-friend</p>
 
 <h2>Built With</h2>
 <ul>
